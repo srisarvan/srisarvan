@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hi From .. Hello World!!!!! helo" );
+        System.out.println( "Hi From .. Hello World!!!!! he" );
     	SpringApplication.run(App.class, args);
     }
 }
